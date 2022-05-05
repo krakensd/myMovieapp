@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-movies-codealong",
+  "name": "mymovieapp",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -19,6 +19,7 @@
     "node-fetch": "^2.6.7",
     "passport": "^0.5.2",
     "passport-google-oauth": "^2.0.0",
+    "passport-google-oauth20": "^2.0.0",
     "passport-oauth2": "^1.6.1"
   }
 }

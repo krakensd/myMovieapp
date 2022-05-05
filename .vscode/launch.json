@@ -10,7 +10,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.ejs",
-            "file":"/Users/boble/SEIR328rc/Code/mongoose-movies-codealong/views/movies/index.ejs"
+            "file":"/Users/boble/SEIR328rc/Code/mymoviesapp/views/movies/index.ejs"
 
         }
     ]
