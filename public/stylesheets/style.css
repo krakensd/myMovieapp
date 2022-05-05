@@ -29,6 +29,17 @@ nav > img {
   margin-right: auto;
 }
 
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 34px;
+}
+
+.login img {
+  height: 30px;
+}
+
 body > main {
   grid-area: main;
   display: flex;
