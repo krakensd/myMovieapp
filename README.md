@@ -1,12 +1,21 @@
-# <center>**Mymovieapp Project**</center>
+# <center>Mymovieapp Project</center>
 
-<center>**Welcome to Mymovieapp**</center>
+<center>Welcome to Mymovieapp</center>
 
-### <center>Launch: [**Here**](https://quiet-springs-85754.herokuapp.com/movies/)</center>
+### Launch: [**Here**](https://quiet-springs-85754.herokuapp.com/movies/)</center>
 
-<center>### **How-It Works a user story:**</center>
-The user will launch the app over at Heroku or link and be taken to the landing pat, where they will login and be authenticated by Google OAuth2.  
-The user data will be added in user collection as a document in Mongodb the unique identifier for the app. Once logged in the user can browse all their Movies and movie details by clicking by on movie details button.  If the user clicks the movie detail button the user is presented with title, release year, rating, cast, review textbox and a movie rating with 1 being aweful and 5 an acadamey award, whether or not the movie is showing in theatres. The user is confronted also with a dropdown menu and add cast button to add cast not already in the users movie collection. The user clicks the add cast button where the it will show up onscreen and in the database under the performers collection.  still on the movie detail page also contains a reviews textbox to add reviews the user selects the 1-5 rating and clicks on add review button.  Finally for this page the user can see if their are any reviews submitted.  The review summary displayes use, date review submitted, review comments, movie rating and lastly a delete button to remove unwanted reviews. When the user clicks on the add a performer page they will see a list of performers alrady in their performers collection.  Next the user has a textbox called performer name followed by a date born textbox.  The user can enter the date born manually or the can select a date from a calendar.  The last item on this page is add a performer button to subit the performer name and date born fields.  The last link is add movie and on click the user will see a movie title textbox, release year, MPAA rating dropdown with the values of G, PG, PG-13, R and X (adults only), a checkbox of whether or not the movie is in theatres, the default is checked (in theatre's), and last but not least a add your movie button to submit your move to movie collection.   That is all for the user.
+## How-It Works a user story: ##
+* The user will launch the app over at Heroku or link and be taken to the landing pat, where they will login and be authenticated by Google OAuth2.  
+* The user data will be added in user collection as a document in Mongodb the unique identifier for the app. Once logged in the user can browse all their Movies and movie details by clicking by on movie details button.  
+* If the user clicks the movie detail button the user is presented with title, release year, rating, cast, review textbox and a movie rating with 1 being aweful and 5 an acadamey award, whether or not the movie is showing in theatres. 
+* The user is confronted also with a dropdown menu and add cast button to add cast not already in the users movie collection. The user clicks the add cast button where the it will show up onscreen and in the database under the performers collection.  
+* Still on the movie detail page also contains a reviews textbox to add reviews the user selects the 1-5 rating and clicks on add review button.  Finally for this page the user can see if their are any reviews submitted.  
+* The review summary displayes use, date review submitted, review comments, movie rating and lastly a delete button to remove unwanted reviews. When the user clicks on the add a performer page they will see a list of performers alrady in their performers collection.  
+* Next the user has a textbox called performer name followed by a date born textbox.  
+* The user can enter the date born manually or the can select a date from a calendar. 
+* The last item on this page is add a performer button to subit the performer name and date born fields.  
+* The last link is add movie and on click the user will see a movie title textbox, release year, MPAA rating dropdown with the values of G, PG, PG-13, R and X (adults only), a checkbox of whether or not the movie is in theatres, the default is checked (in theatre's), and last but not least a add your movie button to submit your move to movie collection.   
+That is all for the user.
 
 
 ### **Web App built with:**
